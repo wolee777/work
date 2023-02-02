@@ -1,3 +1,3 @@
 ### use remote repository
-* origin is remote repository branch
+* origin/master is remote repository branch
  
